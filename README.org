@@ -1,0 +1,10 @@
+* cl-wav
+
+Provides a cross platform reader for the WAV file format, implemented in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/RobBlackwell/cl-wav.git   |
+| commit  | d19b1f0  |
+| systems | cl-wav |
+|---------+-------------------------------------------|
+
